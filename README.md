@@ -62,3 +62,6 @@ IoT장치
 
 해당 프로젝트는 hyunwoongko님이 올리신 kochat-master와 kocrawl API를 사용하여 자연어처리를 개발하였습니다.
 https://github.com/hyunwoongko/kochat
+
+시연 영상
+https://www.youtube.com/watch?v=PQNwRPd2rok&t=4s
