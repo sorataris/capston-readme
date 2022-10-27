@@ -1,5 +1,5 @@
 # 음성인식 기반의 스마트 룸
--capstone design work
+- capstone design work
 
 - 캡스톤 디자인을 진행하면서 제작하였습니다.
 # 사용 레파스토지
